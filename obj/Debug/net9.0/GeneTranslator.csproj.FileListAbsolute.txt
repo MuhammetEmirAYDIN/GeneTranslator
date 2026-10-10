@@ -1,0 +1,14 @@
+C:\Users\Rog\GeneTranslator\bin\Debug\net9.0\GeneTranslator.exe
+C:\Users\Rog\GeneTranslator\bin\Debug\net9.0\GeneTranslator.deps.json
+C:\Users\Rog\GeneTranslator\bin\Debug\net9.0\GeneTranslator.runtimeconfig.json
+C:\Users\Rog\GeneTranslator\bin\Debug\net9.0\GeneTranslator.dll
+C:\Users\Rog\GeneTranslator\bin\Debug\net9.0\GeneTranslator.pdb
+C:\Users\Rog\GeneTranslator\obj\Debug\net9.0\GeneTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\GeneTranslator\obj\Debug\net9.0\GeneTranslator.AssemblyInfoInputs.cache
+C:\Users\Rog\GeneTranslator\obj\Debug\net9.0\GeneTranslator.AssemblyInfo.cs
+C:\Users\Rog\GeneTranslator\obj\Debug\net9.0\GeneTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Rog\GeneTranslator\obj\Debug\net9.0\GeneTranslator.dll
+C:\Users\Rog\GeneTranslator\obj\Debug\net9.0\refint\GeneTranslator.dll
+C:\Users\Rog\GeneTranslator\obj\Debug\net9.0\GeneTranslator.pdb
+C:\Users\Rog\GeneTranslator\obj\Debug\net9.0\GeneTranslator.genruntimeconfig.cache
+C:\Users\Rog\GeneTranslator\obj\Debug\net9.0\ref\GeneTranslator.dll
